@@ -1,6 +1,6 @@
 const $$ = document.querySelectorAll.bind(document);
 const $ = document.querySelector.bind(document);
-const PLAYER_KEY = "F8-player";
+const PLAYER_KEY = "user_setting";
 const heading = $("header h2");
 const cdThumb = $(".cd-thumb");
 const audio = $("#audio");
@@ -75,7 +75,7 @@ const app = {
       image: "./assets/img/duchomaivesau.jpg",
     },
     {
-      name: "Lời yêu ngay dại",
+      name: "Lời yêu ngây dại",
       singer: "Kha",
       path: "./assets/music/loiyeungaydai.mp3",
       image: "./assets/img/loiyeungaydai.jpg",
@@ -192,8 +192,8 @@ const app = {
     };
     audio.ontimeupdate = function () {
       if (audio.duration) {
-        const progressPercen = (audio.currentTime / audio.duration) * 100;
-        progress.value = progressPercen;
+        const progressPercent = (audio.currentTime / audio.duration) * 100;
+        progress.value = progressPercent;
       }
     };
     progress.oninput = function (e) {
