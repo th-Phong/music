@@ -88,12 +88,12 @@ const app = {
       path: "./assets/music/cuchillthoi.mp3",
       image: "./assets/img/cuchillthoi.jpg",
     },
-    {
-      name: "Dù Cho Mai Về Sau (Lofi Ver.)",
-      singer: "buitruonglinh x Freak D",
-      path: "./assets/music/duchomaivesau.mp3",
-      image: "./assets/img/duchomaivesau.jpg",
-    },
+    // {
+    //   name: "Dù Cho Mai Về Sau (Lofi Ver.)",
+    //   singer: "buitruonglinh x Freak D",
+    //   path: "./assets/music/duchomaivesau.mp3",
+    //   image: "./assets/img/duchomaivesau.jpg",
+    // },
     {
       name: "Lời yêu ngây dại",
       singer: "Kha",
