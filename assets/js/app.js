@@ -26,28 +26,23 @@ const app = {
   },
   songs: [
     {
-      name: "một file âm thanh nhỏ.mp3",
-      singer: "itsnk x haisam",
-      path: "./assets/music/motfileamthanhnho.mp3",
-      image: "./assets/img/motfileamthanhnhomp3.jpg",
-    },
-    {
-      name: "Đố em biết anh đang nghĩ gì",
-      singer: "Đen x JustaTee",
-      path: "./assets/music/doembietanhdangnghigi.mp3",
-      image: "./assets/img/doembietanhdangnghigi.jpg",
-    },
-    {
       name: "Bông hoa chẳng thuộc về ta",
       singer: "Việt x Deus",
       path: "./assets/music/bonghoachangthuocveta.mp3",
       image: "./assets/img/bonghoachangthuocveta.jpg",
     },
     {
-      name: "Chẳng thể tìm được em",
-      singer: "PhucXP",
-      path: "./assets/music/changthetimduocem.mp3",
-      image: "./assets/img/changthetimduocem.jpg",
+      name: "Một đêm say",
+      singer: "Thịnh Suy",
+      path: "./assets/music/motdemsay.mp3",
+      image: "./assets/img/motdemsay.jpg",
+    },
+
+    {
+      name: "Nghe em",
+      singer: "Thịnh Suy",
+      path: "./assets/music/ngheem.mp3",
+      image: "./assets/img/ngheem.jpg",
     },
     {
       name: "Cô gái bàn bên",
@@ -55,6 +50,25 @@ const app = {
       path: "./assets/music/cogaibanben.mp3",
       image: "./assets/img/cogaibanben.jpg",
     },
+
+    {
+      name: "một file âm thanh nhỏ.mp3",
+      singer: "itsnk x haisam",
+      path: "./assets/music/motfileamthanhnho.mp3",
+      image: "./assets/img/motfileamthanhnhomp3.jpg",
+    },
+    {
+      name: "Gác lại âu lo",
+      singer: "Da LAB x Miu Lê",
+      path: "./assets/music/gaclaiaulo.mp3",
+      image: "./assets/img/gaclailoau.jpg",
+    },
+    // {
+    //   name: "Chẳng thể tìm được em",
+    //   singer: "PhucXP",
+    //   path: "./assets/music/changthetimduocem.mp3",
+    //   image: "./assets/img/changthetimduocem.jpg",
+    // },
 
     {
       name: "Đường tôi chở em về",
@@ -67,6 +81,12 @@ const app = {
       singer: "Kimmese ft.Đen",
       path: "./assets/music/lovingyousunny.mp3",
       image: "./assets/img/lovingyousunny.jpg",
+    },
+    {
+      name: "Cứ chill thôi",
+      singer: "Chillies ft Suni Hạ Linh & Rhymastic",
+      path: "./assets/music/cuchillthoi.mp3",
+      image: "./assets/img/cuchillthoi.jpg",
     },
     {
       name: "Dù Cho Mai Về Sau (Lofi Ver.)",
@@ -87,10 +107,34 @@ const app = {
       image: "./assets/img/emconghelofi.jpg",
     },
     {
+      name: "Bước qua mùa cô đơn",
+      singer: "Vũ",
+      path: "./assets/music/buocquamuacodon.mp3",
+      image: "./assets/img/buocquamuacodon.jpg",
+    },
+    {
       name: "Chuyện Rằng (Lofi Ver.)",
       singer: "Thịnh Suy x Freak D",
       path: "./assets/music/chuyenranglofi.mp3",
       image: "./assets/img/chuyenranglofi.jpg",
+    },
+    {
+      name: "Tầng thượng 102",
+      singer: "Cá hồi hoang",
+      path: "./assets/music/tangthuong102.mp3",
+      image: "./assets/img/tangthuong102.jpg",
+    },
+    {
+      name: "Lạ lùng",
+      singer: "Vũ",
+      path: "./assets/music/lalung.mp3",
+      image: "./assets/img/lalung.jpg",
+    },
+    {
+      name: "Giá như",
+      singer: "Chillies",
+      path: "./assets/music/gianhu.mp3",
+      image: "./assets/img/gianhu.jpg",
     },
   ],
   render: function () {
