@@ -44,12 +44,12 @@ const app = {
       path: "./assets/music/ngheem.mp3",
       image: "./assets/img/ngheem.jpg",
     },
-    {
-      name: "Cô gái bàn bên",
-      singer: "Đen ft.Lynk Lee",
-      path: "./assets/music/cogaibanben.mp3",
-      image: "./assets/img/cogaibanben.jpg",
-    },
+    // {
+    //   name: "Cô gái bàn bên",
+    //   singer: "Đen ft.Lynk Lee",
+    //   path: "./assets/music/cogaibanben.mp3",
+    //   image: "./assets/img/cogaibanben.jpg",
+    // },
 
     {
       name: "một file âm thanh nhỏ.mp3",
