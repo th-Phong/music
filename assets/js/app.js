@@ -26,6 +26,12 @@ const app = {
   },
   songs: [
     {
+      name: "Cứ chill thôi",
+      singer: "Chillies ft Suni Hạ Linh & Rhymastic",
+      path: "./assets/music/cuchillthoi.mp3",
+      image: "./assets/img/cuchillthoi.jpg",
+    },
+    {
       name: "Bông hoa chẳng thuộc về ta",
       singer: "Việt x Deus",
       path: "./assets/music/bonghoachangthuocveta.mp3",
@@ -82,12 +88,7 @@ const app = {
       path: "./assets/music/lovingyousunny.mp3",
       image: "./assets/img/lovingyousunny.jpg",
     },
-    {
-      name: "Cứ chill thôi",
-      singer: "Chillies ft Suni Hạ Linh & Rhymastic",
-      path: "./assets/music/cuchillthoi.mp3",
-      image: "./assets/img/cuchillthoi.jpg",
-    },
+
     // {
     //   name: "Dù Cho Mai Về Sau (Lofi Ver.)",
     //   singer: "buitruonglinh x Freak D",
