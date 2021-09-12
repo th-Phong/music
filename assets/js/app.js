@@ -62,12 +62,12 @@ const app = {
       path: "./assets/music/motfileamthanhnho.mp3",
       image: "./assets/img/motfileamthanhnhomp3.jpg",
     },
-    {
-      name: "Gác lại âu lo",
-      singer: "Da LAB x Miu Lê",
-      path: "./assets/music/gaclaiaulo.mp3",
-      image: "./assets/img/gaclailoau.jpg",
-    },
+    // {
+    //   name: "Gác lại âu lo",
+    //   singer: "Da LAB x Miu Lê",
+    //   path: "./assets/music/gaclaiaulo.mp3",
+    //   image: "./assets/img/gaclailoau.jpg",
+    // },
     // {
     //   name: "Chẳng thể tìm được em",
     //   singer: "PhucXP",
@@ -118,12 +118,12 @@ const app = {
       path: "./assets/music/chuyenranglofi.mp3",
       image: "./assets/img/chuyenranglofi.jpg",
     },
-    {
-      name: "Tầng thượng 102",
-      singer: "Cá hồi hoang",
-      path: "./assets/music/tangthuong102.mp3",
-      image: "./assets/img/tangthuong102.jpg",
-    },
+    // {
+    //   name: "Tầng thượng 102",
+    //   singer: "Cá hồi hoang",
+    //   path: "./assets/music/tangthuong102.mp3",
+    //   image: "./assets/img/tangthuong102.jpg",
+    // },
     {
       name: "Lạ lùng",
       singer: "Vũ",
