@@ -118,6 +118,12 @@ const app = {
       path: "./assets/music/chuyenranglofi.mp3",
       image: "./assets/img/chuyenranglofi.jpg",
     },
+    {
+      name: "Thắc Mắc (MĐX)",
+      singer: "Thịnh Suy",
+      path: "./assets/music/thacmac.mp3",
+      image: "./assets/img/thacmac.jpg",
+    },
     // {
     //   name: "Tầng thượng 102",
     //   singer: "Cá hồi hoang",
