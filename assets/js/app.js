@@ -57,82 +57,6 @@ const app = {
     //   image: "./assets/img/cogaibanben.jpg",
     // },
     {
-      name: "Cry On My Shoulder",
-      singer: "Superstar",
-      path: "./assets/music/cryonmyshoulder.mp3",
-      image: "./assets/img/cryonmyshoulder.jpg",
-    },
-    {
-      name: "Yesterday once more",
-      singer: "The Carpenters",
-      path: "./assets/music/yesterdayoncemore.mp3",
-      image: "./assets/img/yesterdayoncemore.jpg",
-    },
-    {
-      name: "You Are Not Alone",
-      singer: "Michael Jackson",
-      path: "./assets/music/youarenotalone.mp3",
-      image: "./assets/img/youarenotalone.jpg",
-    },
-
-    {
-      name: "Perfect",
-      singer: "Ed Sheeran",
-      path: "./assets/music/perfect.mp3",
-      image: "./assets/img/perfect.jpg",
-    },
-    {
-      name: "Photograph",
-      singer: "Ed Sheeran",
-      path: "./assets/music/photograph.mp3",
-      image: "./assets/img/photograph.jpg",
-    },
-
-    {
-      name: "Thinking Out Loud",
-      singer: "Ed Sheeran",
-      path: "./assets/music/thinkingoutloud.mp3",
-      image: "./assets/img/thinkingoutloud.jpg",
-    },
-    {
-      name: "Comethru",
-      singer: "Jeremy Zucker",
-      path: "./assets/music/comethru.mp3",
-      image: "./assets/img/comethru.jpg",
-    },
-    {
-      name: "Loverboy",
-      singer: "A-Wall",
-      path: "./assets/music/loverboy.mp3",
-      image: "./assets/img/loverboy.jpg",
-    },
-    {
-      name: "Love Is Gone (Acoustic)",
-      singer: "Slander, Dylan Matthew",
-      path: "./assets/music/loveisgone.mp3",
-      image: "./assets/img/loveisgone.jpg",
-    },
-    {
-      name: "Die for you",
-      singer: "The Weeknd",
-      path: "./assets/music/dieforyou.mp3",
-      image: "./assets/img/dieforyou.jpg",
-    },
-
-    {
-      name: "Before You Go",
-      singer: "Lewis Capaldi",
-      path: "./assets/music/beforeyougo.mp3",
-      image: "./assets/img/beforeyougo.jpg",
-    },
-    {
-      name: "Let Her Go",
-      singer: "Passenger",
-      path: "./assets/music/lethergo.mp3",
-      image: "./assets/img/lethergo.jpg",
-    },
-
-    {
       name: "một file âm thanh nhỏ.mp3",
       singer: "itsnk x haisam",
       path: "./assets/music/motfileamthanhnho.mp3",
@@ -211,6 +135,81 @@ const app = {
       singer: "Chillies",
       path: "./assets/music/gianhu.mp3",
       image: "./assets/img/gianhu.jpg",
+    },
+    {
+      name: "Cry On My Shoulder",
+      singer: "Superstar",
+      path: "./assets/music/cryonmyshoulder.mp3",
+      image: "./assets/img/cryonmyshoulder.jpg",
+    },
+    {
+      name: "Yesterday once more",
+      singer: "The Carpenters",
+      path: "./assets/music/yesterdayoncemore.mp3",
+      image: "./assets/img/yesterdayoncemore.jpg",
+    },
+    {
+      name: "You Are Not Alone",
+      singer: "Michael Jackson",
+      path: "./assets/music/youarenotalone.mp3",
+      image: "./assets/img/youarenotalone.jpg",
+    },
+
+    {
+      name: "Perfect",
+      singer: "Ed Sheeran",
+      path: "./assets/music/perfect.mp3",
+      image: "./assets/img/perfect.jpg",
+    },
+    {
+      name: "Photograph",
+      singer: "Ed Sheeran",
+      path: "./assets/music/photograph.mp3",
+      image: "./assets/img/photograph.jpg",
+    },
+
+    {
+      name: "Thinking Out Loud",
+      singer: "Ed Sheeran",
+      path: "./assets/music/thinkingoutloud.mp3",
+      image: "./assets/img/thinkingoutloud.jpg",
+    },
+    {
+      name: "Comethru",
+      singer: "Jeremy Zucker",
+      path: "./assets/music/comethru.mp3",
+      image: "./assets/img/comethru.jpg",
+    },
+    {
+      name: "Loverboy",
+      singer: "A-Wall",
+      path: "./assets/music/loverboy.mp3",
+      image: "./assets/img/loverboy.jpg",
+    },
+    {
+      name: "Love Is Gone (Acoustic)",
+      singer: "Slander, Dylan Matthew",
+      path: "./assets/music/loveisgone.mp3",
+      image: "./assets/img/loveisgone.jpg",
+    },
+    {
+      name: "Die for you",
+      singer: "The Weeknd",
+      path: "./assets/music/dieforyou.mp3",
+      image: "./assets/img/dieforyou.jpg",
+    },
+
+    {
+      name: "Before You Go",
+      singer: "Lewis Capaldi",
+      path: "./assets/music/beforeyougo.mp3",
+      image: "./assets/img/beforeyougo.jpg",
+    },
+    {
+      name: "Let Her Go",
+      singer: "Passenger",
+      path: "./assets/music/lethergo.mp3",
+      image: "./assets/img/lethergo.jpg",
     },
   ],
   render: function () {
