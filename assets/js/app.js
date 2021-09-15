@@ -107,12 +107,6 @@ const app = {
       image: "./assets/img/emconghelofi.jpg",
     },
     {
-      name: "Bước qua mùa cô đơn",
-      singer: "Vũ",
-      path: "./assets/music/buocquamuacodon.mp3",
-      image: "./assets/img/buocquamuacodon.jpg",
-    },
-    {
       name: "Chuyện Rằng (Lofi Ver.)",
       singer: "Thịnh Suy x Freak D",
       path: "./assets/music/chuyenranglofi.mp3",
@@ -130,12 +124,6 @@ const app = {
     //   path: "./assets/music/tangthuong102.mp3",
     //   image: "./assets/img/tangthuong102.jpg",
     // },
-    {
-      name: "Lạ lùng",
-      singer: "Vũ",
-      path: "./assets/music/lalung.mp3",
-      image: "./assets/img/lalung.jpg",
-    },
     {
       name: "Giá như",
       singer: "Chillies",
